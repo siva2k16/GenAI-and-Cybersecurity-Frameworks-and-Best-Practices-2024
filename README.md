@@ -44,7 +44,7 @@ This repository provides a curated list of resources covering various aspects of
 - **Description**: A toolkit for deploying and managing LLMs efficiently.
 
 ### Giskard
-- **URL**: [Visit the GitHub Repository](https://github.com/Giskard-AI/giskards)
+- **URL**: [Visit the GitHub Repository](https://github.com/Giskard-AI)
 - **Description**: Open-source framework for testing, debugging, and monitoring AI models.
 
 ## Industry Insights
