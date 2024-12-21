@@ -24,5 +24,6 @@ The following case studies and articles are foundational to the course:
    [View Post on X](https://x.com/vivek_naskar/status/1832871384822751557)
 
 8. **Italy fines OpenAI over ChatGPT privacy rules breach**
+   
    [Italy fines OpenAI for privacy breach](https://finance.yahoo.com/news/italy-fines-openai-15-million-113112778.html)
 
